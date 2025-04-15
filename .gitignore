@@ -1,0 +1,4 @@
+.env
+credenciais.json
+__pycache__/
+roboang_venv/
